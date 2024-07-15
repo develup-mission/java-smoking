@@ -4,7 +4,8 @@
 </p>
 
 ## 🚀 진행 방식
-// 리뷰 방식 컨텐츠에 따라 채우기 (or 링크 첨부)
+1. 미션 진행은 [미션 진행 가이드 문서](https://github.com/develup-mission/docs/blob/main/mission-guide.md)를 따른다.
+2. 리뷰 진행은 [리뷰 진행 가이드 문서](https://github.com/develup-mission/docs/blob/main/review-guide.md)를 따른다.
 
 ## 💻 기능 요구 사항
 
