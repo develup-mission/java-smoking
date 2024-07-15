@@ -1,6 +1,12 @@
+# 미션 - 루터회관 흡연 단속
+<p align = "center">
+ <img src="https://github.com/user-attachments/assets/a3adf64b-978d-4278-b5c1-6bc7c062d001" width = 500 height = 350>
+</p>
 
-![image](https://github.com/user-attachments/assets/a3adf64b-978d-4278-b5c1-6bc7c062d001)
+## 🚀 진행 방식
+// 리뷰 방식 컨텐츠에 따라 채우기 (or 링크 첨부)
 
+## 💻 기능 요구 사항
 
 루터회관 흡연 벌칙 프로그램을 구현한다.
 
@@ -12,7 +18,9 @@
     - 가까운 보건소에서 금연 프로그램을 이수하면 벌금은 면제된다.
 3. 사용자가 잘못된 값을 입력할 경우 IlegalArgumentException을 발생시킨 후 프로그램은 종료되어야 한다.
 
-```java
+### 예시 
+
+```
 어떤 벌칙을 수행할지 입력해주세요.
 1. 10만원 납부
 2. 한달 내에 8만원 납부
