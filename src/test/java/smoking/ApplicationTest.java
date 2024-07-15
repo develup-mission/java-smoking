@@ -1,0 +1,4 @@
+package smoking;
+class ApplicationTest {
+
+}
